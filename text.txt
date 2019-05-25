@@ -1,0 +1,90 @@
+http://foo.com/blah_blah
+http://foo.com/blah_blah/
+http://foo.com/blah_blah_(wikipedia)
+http://foo.com/blah_blah_(wikipedia)_(again)
+
+The bee-eaters are a group of near passerine birds in the family Meropidae, containing three genera and twenty-seven species. Most species are found in Africa and Asia, with a few in southern Europe, Australia, and New Guinea. They are characterised by richly coloured plumage, slender bodies, and usually elongated central tail feathers. All have long down-turned bills and medium to long wings, which may be pointed or round. Male and female plumages are usually similar.
+
+http://www.example.com/wpstyle/?p=364
+https://www.example.com/foo/?bar=baz&inga=42&quux
+http://userid:password@example.com:8080
+http://userid:password@example.com:8080/
+www.facebook.com
+www.delfi.lt
+www.face.org
+
+As their name suggests, bee-eaters predominantly eat flying insects, especially bees and wasps, which are caught in the air by flights from an open perch. The stinger is removed by repeatedly hitting and rubbing the insect on a hard surface. During this process, pressure is applied to the insect, thereby extracting most of the venom.
+
+Most bee-eaters are gregarious. They form colonies, nesting in burrows tunnelled into vertical sandy banks, often at the side of a river or in flat ground. As they mostly live in colonies, large numbers of nest holes may be seen together. The eggs are white, with typically five to the clutch. Most species are monogamous, and both parents care for the young, sometimes with assistance from related birds in the colony.
+
+Bee-eaters may be killed by raptors; their nests are raided by rodents and snakes, and they can carry various parasites. Some species are adversely affected by human activity or habitat loss, but none meet the International Union for Conservation of Nature's vulnerability criteria, and all are therefore evaluated as "least concern". Their conspicuous appearance means that they have been mentioned by ancient writers and incorporated into mythology.
+
+The bee-eaters were first named as a scientific group by the French polymath Constantine Samuel Rafinesque-Schmaltz, who created the bird subfamily Meropia for these birds in 1815.[1][2] The name, now modernised as Meropidae, is derived from Merops, the Ancient Greek for "bee-eater", and the English term "bee-eater" was first recorded in 1668, referring to the European species.
+
+http://142.42.1.1/
+http://142.42.1.1:8080/
+http://foo.com/blah_(wikipedia)_blah#cite-1
+http://code.google.com/events/#&product=browser
+
+The bee-eaters have been considered to be related to other families, such as the rollers, hoopoe and kingfishers, but ancestors of those families diverged from the bee-eaters at least forty million years ago, so any relationship is not close.[5] The scarcity of fossils is unhelpful. Bee-eater fossils from the Pleistocene (2,588,000 to 11,700 years ago) have been found in Austria, and there are Holocene (from 11,700 years ago to present) specimens from Israel and Russia, but all have proved to be of the extant European bee-eater.[6] Opinions vary as to the bee-eater's nearest relatives. In 2001, Fry considered the kingfishers to be the most likely,[5] whereas a large study published in 2008 found that bee-eaters are sister to all other Coraciiformes (rollers, ground rollers, todies, motmots and kingfishers).[7] A 2009 book supported Fry's contention,[8] but then a later study in 2015 suggested that the bee-eaters are sister to the rollers.[9] The 2008 and 2015 papers both linked the kingfishers to the New World motmots.[7][9]
+
+The bee-eaters are generally similar in appearance, although they are normally divided into three genera. Nyctyornis comprises two large species with long throat feathers, the blue-bearded bee-eater and the red-bearded bee-eater, both of which have rounded wings, a ridged culmen, feathered nostrils and a relatively sluggish lifestyle. The purple-bearded bee-eater is the sole member of Meropogon, which is intermediate between Nyctyornis and the typical bee-eaters, having rounded wings and a "beard", but a smooth culmen and no nostril feathers. All the remaining species are normally retained in the single genus Merops. There are close relationships within this genus, for example the red-throated bee-eater and the white-fronted bee-eater form a superspecies, but formerly suggested genera, such as Aerops, Melittophagus, Bombylonax and Dicrocercus,[10] have not been generally accepted for several decades since a 1969 paper united them in the current arrangement.[5][11]
+
+http://-.~_!$&'()*+,;=:%40:80%2f::::::@example.com
+http://a.b-c.de
+http://1337.net
+
+Species in taxonomic order
+
+Red-bearded bee-eater, a Nyctyornis species
+Evolutionary relationships
+
+The bee-eater family contains the following species.
+
+Genus: Nyctyornis
+Red-bearded bee-eater, Nyctyornis amictus
+Blue-bearded bee-eater, Nyctyornis athertoni
+Genus: Meropogon
+Purple-bearded bee-eater, Meropogon forsteni
+Genus: Merops
+Little bee-eater, Merops pusillus
+Blue-cheeked bee-eater, Merops persicus
+Green bee-eater, Merops orientalis
+White-throated bee-eater, Merops albicollis
+Swallow-tailed bee-eater, Merops hirundinaeus
+Blue-tailed bee-eater, Merops philippinus
+Black bee-eater, Merops gularis
+Blue-headed bee-eater, Merops muelleri
+Blue-moustached bee-eater, Merops mentalis
+Red-throated bee-eater, Merops bulocki
+White-fronted bee-eater, Merops bullockoides
+Blue-breasted bee-eater, Merops variegatus
+Cinnamon-chested bee-eater, Merops oreobates
+Black-headed bee-eater, Merops breweri
+Somali bee-eater, Merops revoilii
+Böhm's bee-eater, Merops boehmi
+Blue-throated bee-eater, Merops viridis
+Olive bee-eater, Merops superciliosus
+Rainbow bee-eater, Merops ornatus
+European bee-eater, Merops apiaster
+Chestnut-headed bee-eater, Merops leschenaulti
+Rosy bee-eater, Merops malimbicus
+Northern carmine bee-eater, Merops nubicus
+Southern carmine bee-eater, Merops nubicoides
+Some authorities split the green bee-eater into three species, the Asian green bee-eater, Merops orientalis,[13] the Arabian green bee-eater, M. cyanophrys, and the African green bee-eater, M. viridissimus.[14][15]
+
+https://github.com/objprog/paskaitos2019
+
+The bee-eaters are morphologically a fairly uniform group. They share many features with related Coraciiformes such as the kingfishers and rollers, being large-headed (although less so than their relatives), short-necked, brightly plumaged and short-legged. Their wings may be rounded or pointed, with the wing shape closely correlated with the species' preferred foraging habitat and migratory tendencies. Shorter, rounder wings are found on species that are sedentary and make typically short foraging flights in denser forests and reed-beds. Those with more elongated wings are more migratory. All the bee-eaters are highly aerial; they take off strongly from perches, fly directly without undulations, and are able to change direction quickly, although they rarely hover.[5]
+
+The flight feathers of the wing comprise 10 primaries, the outermost being very small, and 13 secondaries, and there are 12 tail feathers.[16]
+
+The bills of bee-eaters are curved, long and end in a sharp point. The bill can bite strongly, particularly at the tip, and it is used as a pair of forceps with which to snatch insects from the air and crush smaller prey. The short legs have weak feet, and when it is moving on the ground a bee-eater's gait is barely more than a shuffle. The feet have sharp claws used for perching on vertical surfaces and also for nest excavation.[5]
+
+The plumage of the family is generally very bright and in most species is mostly or at least partly green, although the two carmine bee-eaters are mostly rose-coloured. Most of the Merops bee-eaters have a black bar through the eye and many have differently coloured throats and faces. The extent of the green in these species varies from almost complete in the green bee-eater to barely any green in the white-throated bee-eater. Three species, from equatorial Africa, have no green at all in their plumage, the black bee-eater, the blue-headed bee-eater and the rosy bee-eater. Many species have elongated central tail feathers.[5]
+
+There is little visible difference between the sexes in most of the family, although in several species the iris is red in the males and brown-red in the females, and in species with tail-streamers these may be slightly longer in males. Both the European and red-bearded bee-eaters have sex-based differences in their plumage colour, and the female rainbow bee-eater has shorter tail streamers than the male, which terminate in a club-shape that he lacks.[5] There may be instances where bee-eaters are sexually dichromatic at the ultraviolet part of the colour spectrum, which humans cannot see. A study of blue-tailed bee-eater found that males were more colourful than females in UV light. Their overall colour was also affected by body condition, suggesting that there was a signalling component to plumage colour.[17] Juveniles are generally similar to adults, except for the two Nyctyornis species, in which the young have mainly green plumage.[5]
+
+Bee-eaters have calls that are characteristic for each species. Most sound simple to the human ear, but show significant variability when studied in detail, carrying significant information for the birds.
+A 2007 nuclear and mitochondrial DNA study produced a possible phylogenetic tree, although the position of the purple-bearded bee-eater appears anomalous, in that it appears amongst Merops species
+
