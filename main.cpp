@@ -76,19 +76,19 @@ void readFile(string fileName) {
         std::ofstream out("rezultatai.txt");
         for (auto pair : set) {
             if (pair.second > 1) {
-                cout << "Word '" << pair.first << "' repeats " << pair.second << " times in these lines: ";
+                out << "Word '" << pair.first << "' repeats " << pair.second << " times in these lines: ";
                 LineMap[pair.first].erase(std::unique(LineMap[pair.first].begin(), LineMap[pair.first].end()), LineMap[pair.first].end());
-                cout << LineMap[pair.first][0];
+                out << LineMap[pair.first][0];
                 for (auto i = 1; i < LineMap[pair.first].size(); i++) {
-                    cout << ", " << LineMap[pair.first][i];
+                    out << ", " << LineMap[pair.first][i];
                 }
-                cout << endl;
+                out << endl;
             }
         }
-        cout << endl;
-        cout << "URLS:" << endl;
+        out << endl;
+        out << "URLS:" << endl;
         for (auto i : urls) {
-            cout << i << endl;
+            out << i << endl;
         }
     }
     else {
