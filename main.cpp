@@ -1,5 +1,6 @@
 #include <iostream>
 #include <map>
+#include <set>
 #include <string>
 #include <fstream>
 #include <sstream>
@@ -11,11 +12,22 @@ using std::string;
 using std::cout;
 using std::endl;
 
+struct comp
+{
+    template<typename T>
+    bool operator()(const T& l, const T& r) const
+    {
+        if (l.second != r.second)
+            return l.second < r.second;
+
+        return l.first < r.first;
+    }
+};
+
 bool exist(string fileName);
 void readFile(string fileName);
 void remove(std::string& str, char character);
 void removeSymbols(string& word);
-
 
 int main()
 {
@@ -59,8 +71,10 @@ void readFile(string fileName) {
             lineNum++;
 
         }
+        std::set<std::pair<std::string, int>, comp> set(WordMap.begin(), WordMap.end());
+
         std::ofstream out("rezultatai.txt");
-        for (auto pair : WordMap) {
+        for (auto pair : set) {
             if (pair.second > 1) {
                 cout << "Word '" << pair.first << "' repeats " << pair.second << " times in these lines: " << LineMap[pair.first] << endl;
             }
