@@ -45,7 +45,7 @@ void readFile(string fileName) {
 
         std::ifstream in (fileName);
         std::map<string, size_t> WordMap;
-        std::map<string, string> LineMap;
+        std::map<string, std::vector<int>> LineMap;
         string line;
         size_t lineNum = 1;
         while (getline(in, line)) {
@@ -63,10 +63,10 @@ void readFile(string fileName) {
                     string line2 = std::to_string(lineNum);
                     char lineMem = line2.front();
                     if (static_cast<char>(LineMap[word].back() != lineMem)) {
-                        LineMap[word] = LineMap[word] + ", " + std::to_string(lineNum);
+                        LineMap[word].push_back(lineNum);
                     }
                 }
-                else LineMap[word] = std::to_string(lineNum);
+                else LineMap[word].push_back(lineNum);
             }
             lineNum++;
 
@@ -76,7 +76,13 @@ void readFile(string fileName) {
         std::ofstream out("rezultatai.txt");
         for (auto pair : set) {
             if (pair.second > 1) {
-                cout << "Word '" << pair.first << "' repeats " << pair.second << " times in these lines: " << LineMap[pair.first] << endl;
+                cout << "Word '" << pair.first << "' repeats " << pair.second << " times in these lines: ";
+                LineMap[pair.first].erase(std::unique(LineMap[pair.first].begin(), LineMap[pair.first].end()), LineMap[pair.first].end());
+                cout << LineMap[pair.first][0];
+                for (auto i = 1; i < LineMap[pair.first].size(); i++) {
+                    cout << ", " << LineMap[pair.first][i];
+                }
+                cout << endl;
             }
         }
         cout << endl;
